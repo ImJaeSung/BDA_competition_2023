@@ -1,4 +1,5 @@
 # BDA_competition_2023
+MOMA 팀 BDA 공모전 준비를 위한 저장소입니다.
 
 ![image](https://github.com/ImJaeSung/BDA_competition_2023/assets/113405066/0346708a-89ac-4a03-a61f-d416d3c8b07f)
 
